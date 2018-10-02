@@ -9,7 +9,7 @@ In case these assumptions are untrue, you might want to take a look at this <a>w
 
 But it would be unfair if we completely ignore the <a href='http://docs.python-guide.org/en/latest/starting/which-python/#the-state-of-python-2-vs-3' target='_blank' rel='nofollow'>Python 2 vs Python 3</a> debate.
 
-## Wrapping Up
+## Django
 
 If you have already installed `pip` then simply:
 ```
@@ -29,4 +29,16 @@ In next article, we would be discussing how to install PostgreSQL and use it wit
 
 A point to ponder - we have been using `pip` heavily, but we have barely said anything about it. Well, for now, it's just a package manager like `npm`. It has some differences with `npm`; but, you don't need to worry about that now. If you are interested, do check out the <a href='http://pip-python3.readthedocs.org/en/latest/index.html' target='_blank' rel='nofollow'>official `pip` documentation</a>.
 
-_If you have suggestions or questions, come join us on <a href='https://gitter.im/FreeCodeCamp/FreeCodeCamp' target='_blank' rel='nofollow'>gitter</a>_.
+## Flask
+
+Install `Flask` using `pip`
+
+```
+$ pip install flask
+```
+
+Create a new directory for your web application
+
+TODO
+
+If you have suggestions or questions, come join us on <a href='https://gitter.im/FreeCodeCamp/FreeCodeCamp' target='_blank' rel='nofollow'>gitter</a>
